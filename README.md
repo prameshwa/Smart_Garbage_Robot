@@ -8,7 +8,7 @@ The **Smart Garbage Bin Robot** is an intelligent robotic system built using the
 * 🔹 Line Following
 * 🔹 Random Movement
 
-It demonstrates concepts of **embedded systems, IoT, and robotics automation**.
+It demonstrates concepts of **IoT, and robotics automation**.
 
 ---
 
